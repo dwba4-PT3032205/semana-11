@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/semana-11/static/css/main.c776c8b5.css",
+    "main.js": "/semana-11/static/js/main.973b88d1.js",
+    "static/js/453.5257b20e.chunk.js": "/semana-11/static/js/453.5257b20e.chunk.js",
+    "index.html": "/semana-11/index.html",
+    "main.c776c8b5.css.map": "/semana-11/static/css/main.c776c8b5.css.map",
+    "main.973b88d1.js.map": "/semana-11/static/js/main.973b88d1.js.map",
+    "453.5257b20e.chunk.js.map": "/semana-11/static/js/453.5257b20e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c776c8b5.css",
+    "static/js/main.973b88d1.js"
+  ]
+}
